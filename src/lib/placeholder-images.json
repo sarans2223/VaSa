@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "onboarding-1",
+      "description": "Illustration for the first onboarding screen showing a woman upskilling.",
+      "imageUrl": "https://images.unsplash.com/photo-1554355410-d7f2f6e64e8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGxlYXJuaW5nfGVufDB8fHx8MTc2MzM3NDEwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman learning"
+    },
+    {
+      "id": "onboarding-2",
+      "description": "Illustration for the second onboarding screen showing a woman getting her profile verified.",
+      "imageUrl": "https://images.unsplash.com/photo-1762340275855-ae8f4c2c144e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9maWxlJTIwdmVyaWZpY2F0aW9ufGVufDB8fHx8MTc2MzM3NDEwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile verification"
+    },
+    {
+      "id": "onboarding-3",
+      "description": "Illustration for the third onboarding screen showing a woman finding a job match.",
+      "imageUrl": "https://picsum.photos/seed/103/800/600",
+      "imageHint": "job matching"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Placeholder for user avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjMzMjg2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "course-1",
+      "description": "Image for a digital marketing course.",
+      "imageUrl": "https://images.unsplash.com/photo-1537731121640-bc1c4aba9b80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGlnaXRhbCUyMG1hcmtldGluZ3xlbnwwfHx8fDE3NjMzNTM4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital marketing"
+    },
+    {
+      "id": "course-2",
+      "description": "Image for a data analysis course.",
+      "imageUrl": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkYXRhJTIwYW5hbHlzaXN8ZW58MHx8fHwxNzYzMjc4MDkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data analysis"
+    },
+    {
+      "id": "course-3",
+      "description": "Image for a graphic design course.",
+      "imageUrl": "https://images.unsplash.com/photo-1611241893603-3c359704e0ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxncmFwaGljJTIwZGVzaWdufGVufDB8fHx8MTc2MzMwNjYzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graphic design"
+    }
+  ]
+}
